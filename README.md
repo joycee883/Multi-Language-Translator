@@ -51,6 +51,4 @@ Adding features for real-time text input translation and enhanced audio options.
 Integrating user feedback mechanisms to improve translation accuracy and interface usability.<br>
 
 
-Discover the Multi-Language Translation Application! This Streamlit application leverages data science to help users translate text seamlessly across multiple languages.<br>
-Visit the live app here: [Link to your app].
 
