@@ -6,27 +6,31 @@ The Multi-Language Translation Application is designed to translate text into va
 ## 🛠️ Tools Used 
 Programming Language: Python <br>
 Libraries:<br>
-Pandas: For data handling and preprocessing.<br>
-mtranslate: For multilingual translation capabilities.<br>
-gTTS: For converting translated text to speech.<br>
-Streamlit: For building an interactive web app.<br>
+* Pandas: For data handling and preprocessing.<br>
+* mtranslate: For multilingual translation capabilities.<br>
+* gTTS: For converting translated text to speech.<br>
+* Streamlit: For building an interactive web app.<br>
 
 ## 🔍 Key Steps
 
-Data Handling<br>
+1.Data Handling<br>
+
 * Data Source: A dataset containing language names and their corresponding ISO codes.<br>
 * Data Cleaning: Ensured the dataset is free from missing values for accurate language translation.<br>
 * Feature Mapping: Created a dictionary to map language names to their ISO codes for easy reference.<br>
 
-User Interface Development<br>
+2.User Interface Development<br>
+
 * Set up an intuitive layout with text input for translation and a sidebar for language selection.<br>
 * Implemented a responsive design to display translated text and audio playback options seamlessly.<br>
 
-Translation Functionality<br>
+3.Translation Functionality<br>
+
 * Utilized the mtranslate library to handle translations across multiple languages.<br>
 * Integrated gTTS for converting the translated text into audio format for playback.<br>
 
-Audio Playback Feature<br>
+4.Audio Playback Feature<br>
+
 * Enabled audio playback of the translated text in supported languages, enhancing user experience.<br>
 
 ## 📊 Key Findings
