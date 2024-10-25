@@ -1,5 +1,5 @@
 streamlit
 gtts
 base64
-mtranslate
+mtranslate==1.6.0
 pandas
