@@ -51,4 +51,8 @@ Adding features for real-time text input translation and enhanced audio options.
 Integrating user feedback mechanisms to improve translation accuracy and interface usability.<br>
 
 
+Discover the live App here. <br>
+https://multi-language-translator-cx4w2eqtg3nq7gnep484q9.streamlit.app/
+
+
 
