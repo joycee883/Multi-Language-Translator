@@ -1,4 +1,0 @@
-streamlit
-mtranslate
-pandas
-gTTS
